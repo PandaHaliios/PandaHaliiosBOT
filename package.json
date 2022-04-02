@@ -1,0 +1,14 @@
+{
+  "name": "PandaHaliiosBOT",
+  "version": "1.0.0",
+  "description": "J'ai été créer par mon maître suprême PandaHaliios",
+  "main": "index.js",
+  "author": "PandaHaliios",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
